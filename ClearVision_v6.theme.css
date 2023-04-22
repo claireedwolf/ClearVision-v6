@@ -1,5 +1,5 @@
 /**
- * @name Ramen Neon Sign
+ * @name City Night Light
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -17,14 +17,14 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/E5tQBi2.gif');
+  --background-image: url('https://i.imgur.com/lOMmn3B.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 66%;
-  --background-contrast: 150%;
+  --background-brightness: 100%;
+  --background-contrast: 135%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
